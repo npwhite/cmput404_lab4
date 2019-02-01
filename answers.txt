@@ -1,0 +1,8 @@
+Q1: Link
+Q2: A install successful page
+Q3: should see 404 at root? not found and hello world at polls
+Q4: Adds the changes from our models into our database schema
+Q5: A login page, and you add models by registering them
+Q6: A vote page, a results page and a details page. You get a 404 error
+Q7: bad idea because if you ever need to change url, you need to change all the places you hardcoded them
+Q8: generic view is good for handling multiple views that are similar
